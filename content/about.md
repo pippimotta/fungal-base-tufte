@@ -6,7 +6,6 @@ hasMath = false
 Hello, this is pippimotta's blog.
 
 
-Here is a bullet list:
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 - Arcu felis bibendum ut tristique et. Volutpat odio facilisis mauris sit amet massa.
