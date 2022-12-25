@@ -13,9 +13,9 @@
         </h1>
 
 
-        <p>{{ truncate 120  .Summary }}</p>
+        <p>{{ truncate 500  .Summary }}</p>
         {{/*  {{ if .Truncated }}  */}}
-        <p><a href="{{ .RelPermalink  }}">Read On &rarr;</a></p>
+        <p><a href="{{ .RelPermalink  }}">&rarr;</a></p>
         {{/*  {{ end }}  */}}
 
     {{ end  }}
