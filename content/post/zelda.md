@@ -3,7 +3,7 @@ math = false
 title = "The Legend of Zelda: Breath of the Wild as a site of knowledge"
 type = "post"
 date = "2020-10-08"
-categories = ["migration","game","don't know what it is", ]
+categories = ["migration","game","don't know what it is"]
 +++
 It seems hard to add any more compliments to *The Legend of Zelda: Breath of the Wild*. This action-adventure game issued in March 2017, developed and published by Nintendo won the IGN’s Game of the Year.
 It is described as “evocative, exhilarating and a masterclass in open-world design” and the milestone in the game history. The game, just as its tile indicated, creates a wild and vast area –the land of *Hyrule* for the players, which hides hundreds of puzzles and wonder to be found.
