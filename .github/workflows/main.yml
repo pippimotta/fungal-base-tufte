@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "public/**"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.108.0"
+
+      - name: Build
+        run: hugo --source website --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.TOKEN }}
+          external_repository: pippimotta/pippimotta.github.io
+          publish_dir: ./public
+          user_name: pippimotta
+          user_email: lingyizh84@gmail.com
+          publish_branch: master
