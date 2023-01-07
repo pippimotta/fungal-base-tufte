@@ -9,6 +9,6 @@ I'm currently learning to be a backend engineer.{{< sidenote "sn-example" >}}If 
 
 What I'm trying to do more: keeping my dopamine at a stable level, being wary of structive inequality,  exploring the potential of cyber anarchism, discovering mushrooms in the gap of capitalist world. {{< sidenote "sn-example" >}}Referring to *[The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins](https://press.princeton.edu/books/paperback/9780691220550/the-mushroom-at-the-end-of-the-world)*{{< /sidenote >}}
 
-What I'm trying to avoid: inaccurate definition, overdosement of vocabulary and theory, ecstasy triggered by dramatic pain, meetings that could've been emails, satisfying with being a perpetual layman.
+What I'm trying to avoid: inaccurate definition, overdosement of vocabulary and theory, ecstasy triggered by dramatic pain, meetings that could've been emails, satisfying with being a perpetual dilettante.
 
 
