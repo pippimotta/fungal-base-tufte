@@ -11,13 +11,7 @@
     {{ partial "content.header.html" . }}
     {{ partial "toc.html" . }}
     <section>{{ .Content }}</section>
-    <script src="https://utteranc.es/client.js"
-    repo="pippimotta/pippimotta.github.io"
-    issue-term="title"
-    theme="github-light"
-    crossorigin="anonymous"
-    async>
-</script>
+    {{partial "comments.html" . }}
     <section>
       {{ partial "footer.html" . }}
     </section>
