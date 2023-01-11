@@ -5,7 +5,7 @@ type = "post"
 date = "2020-09-02"
 categories = ["migration", "mountain" ]
 +++
-Today I went to climb the mountain again! Heiligenberg is a great moutain, with few people and lots of plants and insects. I saw hops, young and premature acorns, hidden mosses and fern empires, and inky blue gastropod beetles, who especially love to sunbathe and are happy to hobble across the mountain and put their lives under the soles of pedestrians' shoes and bicycle wheels. One part of the road was densely covered with shiny metallic fragments of sheath wings, which was sad to see. I also ran into a Magcargo who was out walking at dusk on a clear day, as well as other goose-yellow mushrooms.
+Today I went to climb the mountain again! Heiligenberg is a great moutain, with few people and lots of plants and insects. I saw hops, young and premature acorns, hidden mosses and fern empires, and inky blue gastropod beetles, who especially love to sunbathe and are happy to hobble across the mountain and put their lives under the pedestrians' shoes and bicycle wheels. One part of the road was densely covered with shiny metallic fragments of sheath wings, which was sad to see. I also ran into a Magcargo who was out walking at dusk on a clear day, as well as other goose-yellow mushrooms.
 
 <!--more-->
 Then I climbed all the way to the monastery site. The weather was exceptionally good, the sky was clear, and the different concentrations of blue settled into layers, making me want to coin a new term "sky rock". 
